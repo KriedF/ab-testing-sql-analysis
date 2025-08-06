@@ -53,7 +53,7 @@ Testing whether a new content recommendation algorithm improves user engagement 
 **Documentation:**
 - `README.md` - Complete experiment overview and results
 - `methodology.md` - Statistical approach and experimental assumptions
-- 
+  
 ## 🚀 Business Impact & Recommendations
 
 ### Immediate Actions
