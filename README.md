@@ -79,4 +79,4 @@ This project showcases analytical capabilities essential for data-driven product
 - **SQL Proficiency**: Advanced analytical queries and business logic
 
 ---
-*This analysis demonstrates the type of experimentation and statistical rigor used by product teams at streaming platforms to optimize user experience and business outcomes.*
+*This analysis exemplifies how Senior UX Researchers use statistical methods to understand user preferences, validate design hypotheses, and provide data-driven recommendations to product teams.*
