@@ -40,14 +40,20 @@ Testing whether a new content recommendation algorithm improves user engagement 
 - Business logic implementation in SQL
 
 ## 📁 Project Structure
-├── data/
-│   ├── ab_test_results.csv           # User test participation and outcomes
-│   └── user_metrics.csv              # Additional user behavioral data
-├── sql_queries/
-│   ├── 01_basic_ab_analysis.sql      # Core A/B test metrics
-│   ├── 02_statistical_significance.sql # Significance testing and recommendations
-│   └── 03_conversion_analysis.sql    # Funnel analysis and user segmentation
-└── methodology.md                    # Statistical approach and assumptions
+
+**Data Files:**
+- `data/ab_test_results.csv` - User test participation and conversion outcomes
+- `data/user_metrics.csv` - Additional user behavioral data
+
+**SQL Analysis:**
+- `sql_queries/01_basic_ab_analysis.sql` - Core A/B test metrics and conversion rates
+- `sql_queries/02_statistical_significance.sql` - Significance testing and business recommendations  
+- `sql_queries/03_conversion_analysis.sql` - Funnel analysis and user segmentation
+
+**Documentation:**
+- `README.md` - Complete experiment overview and results
+- `methodology.md` - Statistical approach and experimental assumptions
+- 
 ## 🚀 Business Impact & Recommendations
 
 ### Immediate Actions
